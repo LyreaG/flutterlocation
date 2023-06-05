@@ -31,7 +31,7 @@ dependencies:
   location_android:
     git:
       url: https://github.com/LyreaG/flutterlocation.git
-      ref: location-v5.5.0.0-dev.9-fix
+      ref: master
       path: packages/location_android
   location_ios: ^5.0.0-dev.4
   # location_linux:
